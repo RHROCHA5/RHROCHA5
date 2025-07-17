@@ -25,6 +25,16 @@ Minha jornada em Data Science é impulsionada por uma curiosidade insaciável e 
 
 ---
 
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RHROCHA5&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RHROCHA5&theme=dark" alt="Sequência de Contribuições do GitHub"/>
+</p>
+
+---
+
 ## 🛠️ Tecnologias e Ferramentas
 
 Para dar vida aos meus projetos, utilizo um conjunto robusto de ferramentas e tecnologias:
@@ -49,15 +59,6 @@ Para dar vida aos meus projetos, utilizo um conjunto robusto de ferramentas e te
 </p>
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RHROCHA5&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RHROCHA5&theme=dark" alt="Sequência de Contribuições do GitHub"/>
-</p>
-
----
 
 ## 🔬 Projetos em Destaque
 
