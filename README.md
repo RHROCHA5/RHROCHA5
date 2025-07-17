@@ -3,7 +3,7 @@
 <h1 align="center">🚀 Olá, Cientista de Dados! 👋</h1>
 
 <p align="center">
-  Bem-vindo(a) ao meu universo de dados! 🌌 Sou um(a) entusiasta da <b>Ciência de Dados</b> com foco especial na <b>interação de campos eletromagnéticos com sistemas neurais</b>. Aqui você encontrará projetos que exploram o fascinante mundo dos dados, desde a coleta e análise até a construção de modelos preditivos e soluções inovadoras.
+  Bem-vindo(a) ao meu universo de dados! 🌌 Sou um entusiasta da <b>Ciência de Dados</b> com foco especial na <b>interação de campos eletromagnéticos com sistemas neurais</b>. Aqui você encontrará projetos que exploram o fascinante mundo dos dados, desde a coleta e análise até a construção de modelos preditivos e soluções inovadoras.
 </p>
 
 <p align="center">
