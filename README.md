@@ -37,9 +37,7 @@ Para dar vida aos meus projetos, utilizo um conjunto robusto de ferramentas e te
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn Badge"/>
 
-  <img src="https://img.shields.io/badge/Matplotlib-3086B1?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib Badge"/>
-  <img src="https://img.shields.io/badge/Seaborn-46B8B8?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn Badge"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Badge"/>
+
 </p>
 
 ---
@@ -71,10 +69,3 @@ Estou sempre aberto a novas conexões e colaborações. Sinta-se à vontade para
 * **Email**: [Meu Email](mailto:rhuanrc45@gmail.com)
 
 ---
-
-<p align="center">
-  Feito com ❤️ e 📊
-</p>
-<p align="center">
-  <sub>Ícones e cores inspirados na vastidão azul dos dados.</sub>
-</p>
