@@ -1,7 +1,4 @@
 ## RHROCHA5
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MicaelliCode/micaellicode/main/assets/developer-activity-green.svg" alt="Seu Logo Animado ou GIF Inspirador" width="300"/> 
-  </p>
 
 # 🚀 Olá, Cientista de Dados!
 
