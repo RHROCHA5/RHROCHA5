@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="URL_DA_SUA_FOTO_DE_PERFIL_AQUI" alt="Sua Foto de Perfil" width="150px" style="border-radius: 50%;"/>
-</p>
+#RHUAN ROCHA
 
 <h1 align="center">🚀 Olá, Cientista de Dados! 👋</h1>
 
