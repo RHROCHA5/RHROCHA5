@@ -53,7 +53,7 @@ Para dar vida aos meus projetos, utilizo um conjunto robusto de ferramentas e te
 
 Confira minha pesquisa que ilustra minha paixão e habilidades.
 
-* **🧠[Neurosciense Search]([Link para o repositório](https://github.com/RHROCHA5/Fundamenta-o-Te-rica))**: Uma breve descrição do que o projeto faz e quais tecnologias utiliza (ex:"Análise de Rede Neural utilizando **Numpy** e **Brian2**").
+* **🧠[Neurosciense Search]([Link para o repositório](https://github.com/RHROCHA5/Fundamenta-o-Te-rica))**: Uma breve descrição do que o projeto faz e quais tecnologias utiliza ("Análise de Rede Neural utilizando **Numpy** e **Brian2**").
 
 ---
 
