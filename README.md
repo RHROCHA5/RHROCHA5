@@ -37,8 +37,6 @@ Para dar vida aos meus projetos, utilizo um conjunto robusto de ferramentas e te
 
 </p>
 
----
-
 ## 📊 Alguns Números do GitHub
 
 <p align="center">
@@ -51,6 +49,13 @@ Para dar vida aos meus projetos, utilizo um conjunto robusto de ferramentas e te
 
 ---
 
+## 🔬 Projeto em Destaque
+
+Confira minha pesquisa que ilustra minha paixão e habilidades.
+
+* **🧠[Neurosciense Search]([Link para o repositório](https://github.com/RHROCHA5/Fundamenta-o-Te-rica))**: Uma breve descrição do que o projeto faz e quais tecnologias utiliza (ex:"Análise de Rede Neural utilizando **Numpy** e **Brian2**").
+
+---
 
 ### 🔭 O Futuro Azul da Pesquisa
 
