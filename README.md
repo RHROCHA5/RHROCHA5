@@ -16,7 +16,6 @@
 
 Minha jornada em Data Science é impulsionada por uma curiosidade insaciável e o desejo de transformar dados brutos em insights valiosos. Aqui estão algumas das áreas que mais me empolgam:
 
-* **Processamento de Linguagem Natural (PNL)**: Desvendando a complexidade da linguagem humana através de algoritmos.
 * **Aprendizado de Máquina (Machine Learning)**: Construindo modelos que aprendem e se adaptam para resolver problemas complexos.
 * **Análise de Dados Exploratória (EDA)**: Mergulhando nos dados para descobrir histórias e tendências ocultas.
 * **Visualização de Dados**: Transformando números em narrativas visuais impactantes.
